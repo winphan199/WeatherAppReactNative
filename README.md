@@ -14,7 +14,7 @@ Start metro
 npx react-native start
 ```
 
-Open another terminal
+Open another terminal <br/>
 Run with Android
 
 ```
