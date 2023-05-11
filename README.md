@@ -20,3 +20,7 @@ Run with Android
 ```
 npx react-native run-android
 ```
+
+## Screenshot
+
+![screenshot of mobile weather app](/assets/img/demo.png)
